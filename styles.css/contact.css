@@ -1,0 +1,14 @@
+.btn-modif {
+    float: left;
+    background-color: #f47522 !important;
+    border-color: white !important;
+}
+
+.font-color {
+    color: #1E437D;
+}
+
+.nav-right {
+    justify-content: center;
+    color: #1E437D !important;
+}
