@@ -9,3 +9,29 @@
     height: 100px;
     color: #1E437D;
 }
+
+.card-color {
+    background-color: white !important;
+}
+
+.card {
+    color: #1E437D;
+}
+
+.card-position {
+    margin-left: 5rem;
+    width: 80%;
+}
+
+.h1-style {
+    margin-left: 3rem;
+}
+
+.footer {
+    height: 100px;
+    background-color: #1E437D;
+}
+
+.footer-p {
+    color: white;
+}
